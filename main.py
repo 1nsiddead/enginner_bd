@@ -10,7 +10,7 @@ class Main(tk.Frame):                #Класс главного окна
         self.init_main()
         self.db = db
         self.view_records()
-#Инцелизация графического интерфейса
+#Инцелизация графического интерфейса hello gir :)
     def init_main(self):
 
         toolbar = tk.Frame(bg='#d7d8e0', bd=2)    #Создание  бара и цвет фона bg - цвет фона bd - граница
